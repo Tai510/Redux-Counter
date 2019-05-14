@@ -1,0 +1,50 @@
+.redux-style {
+    margin-left: 625px;
+    border: 1px solid black;
+    width: 200px;
+    height: 355px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    background-color: #648498;
+    color: white;
+}
+
+.text {
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Stylish', sans-serif;
+    padding-top: 25px;
+    margin-bottom: 20px;
+}
+
+.redux-style button {
+    color: white;
+    width: 100px;
+    border-radius: 5px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+.top-text {
+    text-align: center;
+    font-family: 'Stylish', sans-serif;
+}
+
+.plus {
+    background-color: #85C199;
+}
+
+.minus {
+    background-color: #DC0B08;
+}
+
+.odd {
+    background-color: #EC795B;
+    font-family: 'Stylish', sans-serif;
+}
+
+.async {
+    background-color: #C784F2;
+    font-family: 'Stylish', sans-serif;
+}
